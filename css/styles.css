@@ -1,0 +1,66 @@
+body{
+
+    font-family: 'Montserrat', sans-serif;
+    /* background: rgb(193, 231, 196); */
+    /* background-color: #5C5F9C; */
+    background: #F5F7FA;
+    /* background-color: rgb(214, 212, 233); */
+}
+.about_me_profession{
+    font-size: 14px;
+    font-weight: 700px;
+    color: #000
+}
+
+
+.main_container{
+
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: rgb(243, 225, 225);
+    margin: 40px auto;
+}
+
+ /* .Main_content_section{
+     display: flex;
+    flex-direction: row; 
+}  */
+
+
+.about_me_section{
+/* background: rgb(234, 234, 142); */
+
+/* margin-bottom: 50px;
+margin-top: 50px;
+margin-left: 50px;
+margin-right: 50px; */
+/* or */
+
+/* margin: 75px; */
+
+/* margin: 25px 50px ; */
+
+/* margin: 100px 60px 75px 100px ; */
+
+/* padding: 20px 30px 40px 50px ; */
+
+}
+.My_projects_section{
+    /* background: rgb(142, 210, 234); */
+
+}
+.My_work_experince_section{
+    /* background: rgb(183, 129, 233); */
+
+}
+.My_education_section{
+    /* background: rgb(164, 224, 99); */
+
+}  
+
+.side_bar_section{
+    background-color: #1E2939;
+}
+
+
